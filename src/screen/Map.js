@@ -243,16 +243,7 @@ const styles = StyleSheet.create({
     padding: 10,
     alignItems: "center",
   },
-  imageNPK: {
-    position: "absolute",
-    bottom: 450,
-    left: 1,
-    backgroundColor: "white",
-    borderRadius: 10,
-    padding: 10,
-    alignItems: "center",
-  },
-
+  
   linkGiaiPhap: {
     position: "absolute",
     bottom: 250,
