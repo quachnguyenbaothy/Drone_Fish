@@ -32,7 +32,8 @@ export const ChartScreen = () => {
       k: Math.random() * 100,
       ph: randomIntFromInterval(0, 14),
       // ec: Math.random() * 100,
-      ec: randomIntFromInterval(0, 20),
+      //ec: randomIntFromInterval(0, 20),
+      ec: Math.random() * 100,
       humidity: Math.random() * 100,
       temperature: Math.random() * 100,
     });
